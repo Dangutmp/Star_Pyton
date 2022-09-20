@@ -12,5 +12,5 @@ elif operation == "*":
 elif operation == "/":
     if x2 == 0:
         print("error")
-    else
+    else:
         print(x1 / x2)
